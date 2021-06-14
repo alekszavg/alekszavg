@@ -8,5 +8,3 @@ async def readme(message: types.Message):
                             Решил летом заняться программированием и 
                             связи с этим создал свой первый репозиторий, интересно что из всего этого выйдет !? ''')
 ```
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksZavg&show_icons=true&theme=dark)
