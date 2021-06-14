@@ -1,5 +1,5 @@
 ### Добрый день 👋
-```
+``` python
 import aiogram
 
 async def readme(message: types.Message):
