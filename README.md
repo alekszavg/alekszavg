@@ -2,6 +2,7 @@
 
 ```python
 from MyLife import Me
+from MyLife.Me import MyFavorites
 
 Me = {
       "Name": Aleksandr, 
@@ -10,10 +11,6 @@ Me = {
       "Weight": 70 kg, 
       "Can play": Volleyball, just a little Basketball and Dota2
 }
-```
-# My tops
-```python
-from MyLife.Me import MyFavorites
 
 MyFavorites = {
         "Anime": ...,
