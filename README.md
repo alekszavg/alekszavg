@@ -20,4 +20,4 @@ MyFavorites = {
 }
 ```
 # My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksZavg&show_icons=true&theme=dark) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksZavg&show_icons=true&theme=tokyonight) 
