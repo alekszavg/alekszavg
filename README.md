@@ -19,5 +19,3 @@ MyFavorites = {
         "Books": "Ник Перумов - Череп на рукаве/Череп в небесах", "Роберт Хайнлайн - Кукловоды", "Гарри Гаррисон - Мир смерти",
 }
 ```
-# My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksZavg&show_icons=true&theme=tokyonight) 
